@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todo-react-course/static/css/main.af555ec4.css",
+    "main.js": "/todo-react-course/static/js/main.054d2139.js",
+    "index.html": "/todo-react-course/index.html",
+    "static/media/delete.svg": "/todo-react-course/static/media/delete.d9c7e0eeb3f573572e1521b7b69ed33e.svg",
+    "static/media/check.svg": "/todo-react-course/static/media/check.af03c9a6a0411e40578874e6f00e807b.svg",
+    "main.af555ec4.css.map": "/todo-react-course/static/css/main.af555ec4.css.map",
+    "main.054d2139.js.map": "/todo-react-course/static/js/main.054d2139.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af555ec4.css",
+    "static/js/main.054d2139.js"
+  ]
+}
